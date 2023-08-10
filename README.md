@@ -15,20 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Your Name
+# Tom Sargent
 
 ![Profile Banner](link_to_your_banner_image)
 
 ## About Me
 
-Briefly introduce yourself. Talk about your interests, skills, and what drives you in the tech world.
+Bachelor of Commerce Student at Curtin University, majoring in Business Information Technology and
+Information Systems, with 4+ years’ experience in sales and business IT strategy and deployment. A proven record of excellent communication, organisation and leadership skills to exceed sales targets,
+implement IT systems for businesses and strive to always learn, develop and grow. Positive,
+passionate and motivated in all aspects of business, and excited to learn whenever a new
+opportunity presents itself.
+
+“Here’s to the crazy ones…. Because the people who are crazy enough to think they can change the
+world, are the ones who do” – Steve Jobs, 1997.
 
 ## Social Links
 
 Connect with me on:
-- [LinkedIn](https://www.linkedin.com/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/tomsargentperth)
 
 ## Projects
 
@@ -48,21 +53,18 @@ Brief description of your project. What problem does it solve? Technologies used
 
 Repository: [Project 2 Repository](https://github.com/yourusername/project2)
 
-## Experience
-
-### Company Name - Position (Start Date - End Date)
-
-Description of your role, responsibilities, and accomplishments during your time at the company.
-
-### Company Name - Position (Start Date - End Date)
-
-Description of your role, responsibilities, and accomplishments during your time at the company.
+## Programing Languages
+I have experience programing across the following languages:
+1. Python
+2. HTML, CSS and JS
+3. SQL
 
 ## Skills
 
-- List some key skills or technologies you're proficient in, e.g., Programming Languages, Frameworks, Tools.
+A wide array of IT Systems and Development Skills:
+1. 
 
 ## Contact
 
-Feel free to reach out to me at your@email.com.
+Feel free to reach out to me at tom.sargent@student.curtin.edu.au
 
